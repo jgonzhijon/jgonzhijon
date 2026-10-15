@@ -1,6 +1,6 @@
 ```
 +-----------------------------------------------------------------------+
-|  Juan Gonzalez-Hijon  //  PhD Student @ ULB                           |
+|  Juan Gonzalez-Hijon  //  PhD Student @ ULB - HSRU                    |
 +-----------------------------------------------------------------------+
 |  * Areas      : Social Epidemiology, Epidemiology, Mental Health      |
 |  * Toolkit    : Biostatistics, Bioinformatics                         |
