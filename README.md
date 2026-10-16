@@ -1,3 +1,4 @@
+```
 +-----------------------------------------------------------------------+
     Juan Gonzalez-Hijon  //  PhD Student @ ULB - HSRU                    |
 +-----------------------------------------------------------------------+
@@ -26,3 +27,4 @@ I contribute fixes to the scientific software I use in my research:
 ## Links
 - Google Scholar: https://scholar.google.com/citations?user=yEFxNWwAAAAJ
 - HSRU ULB: https://hsru.phisoc.ulb.be/en/members
+```
