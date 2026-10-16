@@ -24,7 +24,5 @@ I contribute fixes to the scientific software I use in my research:
   (open — under review)
   https://github.com/CausalInference/pygformula/pull/30
 
-## Links
-- Google Scholar: https://scholar.google.com/citations?user=yEFxNWwAAAAJ
-- HSRU ULB: https://hsru.phisoc.ulb.be/en/members
+
 ```
