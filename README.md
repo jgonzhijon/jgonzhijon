@@ -13,8 +13,17 @@
 +-----------------------------------------------------------------------+
 ```
 ### Research
-Longitudinal causal inference (parametric g-formula), social epidemiology
-and mental health. Panel data pipelines for the PSID.
+I study how social conditions get under the skin — mental health, social
+epidemiology, and causal inference with longitudinal data.
+
+Recent work: the causal effect of trade unions on workers' health
+(parametric g-formula, PSID); multimorbidity among people requesting
+assisted dying in Belgium (*Age and Ageing*); mental health of family
+members of COVID-19 patients across five Nordic cohorts
+(*Lancet Public Health*, *Lancet Regional Health – Europe*); sleep and
+mental health during the pandemic (*Stress and Health*).
+
+Full list on Google Scholar (sidebar).
 
 ### Open source
 I contribute fixes to the scientific software I use in my research:
